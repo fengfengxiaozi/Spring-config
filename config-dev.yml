@@ -1,1 +1,2 @@
-dev
+config:
+  info: dev-config/version=1
